@@ -1,0 +1,1 @@
+# verificando-hasClass-js-puro
